@@ -3,6 +3,7 @@ h1. This is the data for my blog
 sudo gem install jekyll
 sudo gem install RedCloth
 sudo gem install rdiscount
+sudo gem install github-pages
 jekyll build --watch
 git clone https://widget102@github.com/widget102/personal-blog.git
 jekyll serve
