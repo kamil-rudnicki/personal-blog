@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: 0 zł
+author:
+  display_name: admin
+  login: admin
+  email: kamil.rudnicki@gmail.com
+  url: ''
+author_login: admin
+author_email: kamil.rudnicki@gmail.com
+wordpress_id: 74
+wordpress_url: http://www.rudnicki.info/?p=74
+date: '2009-08-19 14:27:09 +0200'
+date_gmt: '2009-08-19 14:27:09 +0200'
+---
+<p>Oferowanie czegoś za darmo wcale nie głupim pomysłem jak by się mogło wydawać. 0 zł wcale nie oznacza 0 zł dochodu. O czym przekonuje autor książki <a href="http://www.amazon.com/Free-Future-Radical-Chris-Anderson/dp/1401322905">Free: The Future of a Radical Price</a>. Liczne przykłady pokazują potencjał jaki kryje się za oferowaniem czegoś za darmo. Np. Monthy Python. Nie mogli wygrać z nielegalnymi fragmentami ich filmów na YouTube, które były w marnej jakości. To co zrobili to udostepnili wysokiej jakości nagrania we własnym kanale. Efekt był zdumiewający, sprzedaż ich filmów DVD wzrosła, zamiast spaść, jak wiele ludzi przewidywało.</p>
+<p>Książka dostepna jest za darmo w formie audiobooka. Można ją pobrać <a href="http://www.wired.com/images/multimedia/free/FREE_Audiobook_unabridged.zip">stąd</a>.</p>
+<p>Po przesłuchaniu książki z pewnością odpowiedź na pytanie co udostępnić za darmo w startupie nabierze sensu :)</p>
