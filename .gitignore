@@ -1,4 +1,5 @@
 _drafts/
 _site/
+.idea/
 .DS_Store
 *.swp
