@@ -4,6 +4,6 @@ sudo gem install jekyll
 sudo gem install RedCloth
 sudo gem install rdiscount
 sudo gem install github-pages
-jekyll build --watch
+cd /Library/WebServer/Documents/
 git clone https://widget102@github.com/widget102/personal-blog.git
 jekyll serve
