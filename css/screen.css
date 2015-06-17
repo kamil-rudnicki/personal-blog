@@ -72,6 +72,21 @@ ul.posts {
     font-size: 80%;
   }
 
+ul.quotes {
+    list-style-type: none;
+    margin-bottom: 2em;
+}
+ul.quotes li {
+    line-height: 1.75em;
+    margin-bottom: 14px;
+}
+ul.quotes li .author{
+    color: #aaa;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+    margin-left: 15px;
+}
+
 /*****************************************************************************/
 /*
 /* Site
