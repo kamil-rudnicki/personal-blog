@@ -11,6 +11,7 @@ title: Automatic electric curtain
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zSqjXpjQWyE" frameborder="0" allowfullscreen></iframe>
 
 You need:
+
 - About 3 hours of free time
 - Universal AC/DC power 12V 2000mA ($12)
 - Electric motor Modelcraft RB-35 1:100 ($20)
@@ -23,6 +24,7 @@ You need:
 Total: $54
 
 Step by step instructions:
+
 - Mount the wooden spool into the electric motor using three screws
 - Put additional screw at the middle of the spool to hook the string
 - Put tape on the screws
@@ -31,8 +33,9 @@ Step by step instructions:
 - Program your timer to run for 20 seconds (less or more) at 5 am to automatically open the courtain each weekday
 
 Problems yet to solve:
+
 - How to make automtic string unbinding (now I do this manually)
 - How to prevent electric motor to run when courtain is shadowed
 
-<img src="images/1.png" class="inline"/>
-<img src="images/2.png" class="inline"/>
+<img src="http://rudnicki.info/images/1.png" class="inline" style="width: 80%" />
+<img src="http://rudnicki.info/images/2.png" class="inline" style="width: 80%" />
