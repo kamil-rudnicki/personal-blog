@@ -34,3 +34,5 @@ Problems yet to solve:
 - How to make automtic string unbinding (now I do this manually)
 - How to prevent electric motor to run when courtain is shadowed
 
+<img src="images/1.png" class="inline"/>
+<img src="images/2.png" class="inline"/>
