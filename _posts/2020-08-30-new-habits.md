@@ -17,3 +17,4 @@ title: My MacOS setup
 - [ ] Integrate calendar and use Macos native calendar and email
 - [ ] Use aText for automatic text expansions, saves thousands of keystrokes
 - [ ] Use clipboard history Flycut
+- [ ] Learn keyboard shortcuts for most often used apps like Safari, Notes, System
