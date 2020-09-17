@@ -1,9 +1,19 @@
 ---
 layout: post
-title: Habits
+title: My MacOS setup
 ---
 
 {{ page.title }}
 ================
 
-There are tons
+- [ ] Open cards in tabs setting
+- [ ] Three finger drag setting
+- [ ] Automation to open any file with Visual Studio Code
+- [ ] Automation to upload any file to Dropbox and get the link in clipboard
+- [ ] Automation to make password protected zip from selection
+- [ ] Save screenshots in Downloads
+- [ ] Finder opens Downloads folder by default
+- [ ] Finder sort by date created and view in listf
+- [ ] Integrate calendar and use Macos native calendar and email
+- [ ] Use aText for automatic text expansions, saves thousands of keystrokes
+- [ ] Use clipboard history Flycut
