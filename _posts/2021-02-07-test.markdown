@@ -1,7 +1,9 @@
 ---
 title: Test
 date: 2021-02-07 12:50:00 Z
-tags: Classic Hollywood
+tags:
+- Classic
+- Hollywood
 ---
 
 Test 
