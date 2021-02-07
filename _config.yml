@@ -21,7 +21,7 @@ description: A brazen two-column <a href="http://jekyllrb.com" target="_blank">J
   theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo"
   target="_blank">@mdo</a>.
 url: https://kamilrudnicki.com
-baseurl: "/"
+baseurl: ""
 paginate: 5
 plugins:
 - jekyll-paginate
