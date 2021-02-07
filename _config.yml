@@ -14,7 +14,7 @@ defaults:
   values:
     layout: post
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 pygments: true
 permalink: pretty
 description: A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
