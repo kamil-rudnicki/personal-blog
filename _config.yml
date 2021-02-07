@@ -1,22 +1,6 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      pygments
-pygments:         true
-
-# Permalinks
-permalink:            pretty
-#relative_permalinks:  true
-
-# Settings
+---
 title: Personal Blog
 timezone: UTC
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://kamilrudnicki.com
-baseurl:          /
-paginate:         5
-
-# Collections
 collections:
   posts:
     title: Posts
@@ -24,19 +8,24 @@ collections:
   uploads:
     title: Uploads
     output: true
-
-plugins: [jekyll-paginate]
-
-# Defaults
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-
-# Vars
-# Custom vars
-version:          2.1.0
+- scope:
+    path: ''
+  values:
+    layout: default
+markdown: kramdown
+highlighter: pygments
+pygments: true
+permalink: pretty
+tagline: A Jekyll theme
+description: A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+  theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo"
+  target="_blank">@mdo</a>.
+url: https://kamilrudnicki.com
+baseurl: "/"
+paginate: 5
+plugins:
+- jekyll-paginate
+version: 2.1.0
 github:
-  repo:           https://github.com/poole/hyde
+  repo: https://github.com/poole/hyde
