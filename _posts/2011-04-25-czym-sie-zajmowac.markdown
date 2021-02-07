@@ -1,6 +1,8 @@
 ---
 title: Czym się zajmować?
 date: 2011-04-25 20:44:49 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 206
 wordpress_url: http://www.rudnicki.info/?p=205
 date_gmt: '2011-04-25 20:44:49 +0200'
-tags: Polish
 ---
 
 <p>Cały czas się czegoś uczę dzięki pracy nad startupem. Ostatnio mam duży dylemat jako osoba decyzyjny.</p>

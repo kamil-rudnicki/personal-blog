@@ -1,8 +1,9 @@
 ---
 title: Automatic electric curtain
 date: 2017-01-06 00:00:00 Z
+tags:
+- Life-hacks
 layout: post
-tags: Life-hacks
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zSqjXpjQWyE" frameborder="0" allowfullscreen></iframe>

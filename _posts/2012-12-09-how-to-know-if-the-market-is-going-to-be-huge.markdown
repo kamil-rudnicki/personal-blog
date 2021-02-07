@@ -1,6 +1,8 @@
 ---
 title: How to know if the market is going to be huge?
 date: 2012-12-09 17:16:55 Z
+tags:
+- Market
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 230
 wordpress_url: http://localhost/blog/?p=230
 date_gmt: '2012-12-09 18:16:55 +0100'
-tags: Market
 ---
 
 <p>How to know if the market is going to be huge?</p>

@@ -1,6 +1,8 @@
 ---
 title: Ignore this advice
 date: 2012-08-22 10:03:28 Z
+tags:
+- Consciousness
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 234
 wordpress_url: http://localhost/blog/?p=234
 date_gmt: '2012-08-22 12:03:28 +0200'
-tags: Consciousness
 ---
 
 <p>Notes from watching:</p>

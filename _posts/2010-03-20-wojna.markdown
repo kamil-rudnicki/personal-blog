@@ -1,6 +1,8 @@
 ---
 title: Wojna
 date: 2010-03-20 16:33:10 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 177
 wordpress_url: http://www.rudnicki.info/?p=177
 date_gmt: '2010-03-20 15:33:10 +0100'
-tags: Polish
 ---
 
 <p>Właśnie doznałem olśnienia. Ostatnio szczególnie za pieniadze UE, propmuje się wiele rzeczy, gdzie moim zdaniem zwyczajnie<a href="http://www.kamilcebulski.pl/najpierw-sie-odczaruj.html"> marnuje się pieniądze</a> i czas ludzi.</p>

@@ -1,6 +1,8 @@
 ---
 title: Startupy internetowe są aż tak proste!
 date: 2010-01-13 15:05:15 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 154
 wordpress_url: http://www.rudnicki.info/?p=154
 date_gmt: '2010-01-13 14:05:15 +0100'
-tags: Polish
 ---
 
 <div>

@@ -1,8 +1,9 @@
 ---
 title: What future will bring
 date: 2016-08-28 00:00:00 Z
+tags:
+- Market
 layout: post
-tags: Market
 ---
 
 In elementary school there should be lessons for developing character ( uk is starting this)

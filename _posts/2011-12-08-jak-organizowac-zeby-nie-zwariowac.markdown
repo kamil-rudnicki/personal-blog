@@ -1,6 +1,8 @@
 ---
 title: Jak organizować żeby nie zwariować?
 date: 2011-12-08 19:02:32 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 220
 wordpress_url: http://www.rudnicki.info/?p=220
 date_gmt: '2011-12-08 18:02:32 +0100'
-tags: Polish
 ---
 
 <p>Poniżej kilka rad, które przynajmniej mi pomagają, może pomogą i Tobie:</p>

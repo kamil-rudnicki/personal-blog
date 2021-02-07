@@ -1,6 +1,8 @@
 ---
 title: 0 zł
 date: 2009-08-19 12:27:09 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 74
 wordpress_url: http://www.rudnicki.info/?p=74
 date_gmt: '2009-08-19 14:27:09 +0200'
-tags: Polish
 ---
 
 <p>Oferowanie czegoś za darmo wcale nie głupim pomysłem jak by się mogło wydawać. 0 zł wcale nie oznacza 0 zł dochodu. O czym przekonuje autor książki <a href="http://www.amazon.com/Free-Future-Radical-Chris-Anderson/dp/1401322905">Free: The Future of a Radical Price</a>. Liczne przykłady pokazują potencjał jaki kryje się za oferowaniem czegoś za darmo. Np. Monthy Python. Nie mogli wygrać z nielegalnymi fragmentami ich filmów na YouTube, które były w marnej jakości. To co zrobili to udostepnili wysokiej jakości nagrania we własnym kanale. Efekt był zdumiewający, sprzedaż ich filmów DVD wzrosła, zamiast spaść, jak wiele ludzi przewidywało.</p>

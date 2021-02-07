@@ -1,6 +1,8 @@
 ---
 title: Informed Intuition
 date: 2012-09-11 13:19:48 Z
+tags:
+- Decision-making
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 233
 wordpress_url: http://localhost/blog/?p=233
 date_gmt: '2012-09-11 15:19:48 +0200'
-tags: Decision-making
 ---
 
 <p>Today I will write about the concept of informed intuition. It is a knowledge that everybody in executive role should know about.</p>
