@@ -1,8 +1,9 @@
 ---
 title: Being perfect
 date: 2015-06-16 00:00:00 Z
+tags:
+- Consciousness
 layout: post
-tags: Consciousness
 ---
 
 A person can not be perfect at many things. You can not be perfect CEO, programmer, father, dancer,

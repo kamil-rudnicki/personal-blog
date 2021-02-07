@@ -1,8 +1,9 @@
 ---
 title: Happiness, Meaning and Purpouse
 date: 2016-04-17 00:00:00 Z
+tags:
+- Consciousness
 layout: post
-tags: Consciousness
 ---
 
 <p>Find what makes you happy and gives you a meaning and purpose. Find how to stop suffering. Don't stop until you find it. Do what need’s to be done. This is so short and precious life that there is no excuse to look for the answers. </p>

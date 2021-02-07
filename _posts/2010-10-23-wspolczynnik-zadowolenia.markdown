@@ -1,6 +1,8 @@
 ---
 title: Współczynnik zadowolenia
 date: 2010-10-23 14:24:46 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 193
 wordpress_url: http://www.rudnicki.info/?p=193
 date_gmt: '2010-10-23 14:24:46 +0200'
-tags: Polish
 ---
 
 <p>Jeśli zbudujesz taką ofertę, przekaz marketingowy, funkcjonalność, elevator speech, że min. 40% użytkowników powie "<a href="http://startup-marketing.com/using-survey-io/">Bez tego produktu nie może żyć</a>" osiągnąłeś najwyższy poziom wtajemniczenia w startupie - produkt "must have". Od tej pory ludzie zaczną polecać produkt innym, z przyjemnością będą go używać i kupować, a sprzedaż i marketing będzie prostym i powtarzalnym/skalowalnym procesem.</p>

@@ -1,6 +1,8 @@
 ---
 title: Zwiększ zyski podając telefon na stronie www
 date: 2009-06-21 11:37:26 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 58
 wordpress_url: http://www.rudnicki.info/?p=58
 date_gmt: '2009-06-21 11:37:26 +0200'
-tags: Polish
 ---
 
 <p>Odebrałem już około 11 telefonów od użytkowników Visikid. Wprawdzie nie jest to ogrom, jednak taka ilość wystarczyła, aby przekonać się, że udostępnienie własnego telefonu użytkownikom to naprawdę genialne posunięcie.  N<strong>ic nie zastąpi prawdziwej rozmowy z użytkownikiem własnego serwisu www</strong>. Dlatego dziwie się, że tak mało właścicieli startupów, decyduje się udostępniać własny telefon w wielu miejscach na stronie, a nie tylko w zakładce "O nas".</p>

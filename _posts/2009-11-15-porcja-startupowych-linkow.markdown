@@ -1,6 +1,8 @@
 ---
 title: Porcja startupowych linków
 date: 2009-11-15 23:52:47 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 140
 wordpress_url: http://www.rudnicki.info/?p=140
 date_gmt: '2009-11-15 22:52:47 +0100'
-tags: Polish
 ---
 
 <p>Ostatnio obejrzałem <a href="http://www.viddler.com/explore/kcbe/videos/32/37.025/">nagranie z Tadem Witkowiczem</a> (moim guru biznesu). Wgrałem też do odtwarzacza MP3 kilka nagrań o<a href="http://itc.conversationsnetwork.org/shows/detail110.html#"> budowaniu startupów i skalowaniu aplikacji SaaS </a>pobranych ze strony <a href="http://itc.conversationsnetwork.org/">IT Conversations</a>.  Uczestniczyłem na spotkaniu z Alexem przy <a href="http://alexba.eu/2009-11-10/tematy-rozne/herbatka-we-wroclawiu/">herbacie we Wrocławiu</a>, gdzie wyklarował się pomysł bezpłatnych <a href="http://alexba.eu/2009-11-11/firmy-i-minifirmy/startup-sprzedaz/">warsztatów sprzedażowych dla właścicieli startupów</a>, na które zachęcam do wysyłania zgłoszeń!</p>

@@ -1,6 +1,8 @@
 ---
 title: Jak sprzedawać przez partnerów?
 date: 2011-05-08 06:28:47 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 217
 wordpress_url: http://www.rudnicki.info/?p=217
 date_gmt: '2011-05-08 06:28:47 +0200'
-tags: Polish
 ---
 
 <p>Sprzedaż przez partnerów, może przynieść bardzo dużo, pod warunkiem, że zostaną spełnione następujące warunki:</p>

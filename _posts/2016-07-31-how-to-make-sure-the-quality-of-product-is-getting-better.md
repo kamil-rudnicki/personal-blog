@@ -1,8 +1,10 @@
 ---
 title: How to make sure you the quality of product is getting better
 date: 2016-07-31 00:00:00 Z
+tags:
+- Culture
+- Product
 layout: post
-tags: Culture Product
 ---
 
 <p>

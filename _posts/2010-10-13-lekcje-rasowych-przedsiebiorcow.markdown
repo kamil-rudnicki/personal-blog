@@ -1,6 +1,8 @@
 ---
 title: Lekcje rasowych przedsiębiorców
 date: 2010-10-13 18:36:47 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 189
 wordpress_url: http://www.rudnicki.info/?p=189
 date_gmt: '2010-10-13 18:36:47 +0200'
-tags: Polish
 ---
 
 <p>Gdybył miał wybrać tylko jedno źródło całej wiedzy ze wszystkich dostępnych, na pewno wybrałbym podcast Mixergy (I love this podcast :):</p>

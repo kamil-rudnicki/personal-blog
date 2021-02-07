@@ -1,6 +1,8 @@
 ---
 title: Open source technologies that will drive new innovations
 date: 2013-12-15 12:22:41 Z
+tags:
+- Market
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 268
 wordpress_url: http://rudnicki.info/?p=268
 date_gmt: '2013-12-15 13:22:41 +0100'
-tags: Market
 ---
 
 <p>I think that there are some Open source technologies that will drive new innovations. For this moment there was Internet, mobile GPS, GIT, some platforms, cookies, rasberry pi.</p>

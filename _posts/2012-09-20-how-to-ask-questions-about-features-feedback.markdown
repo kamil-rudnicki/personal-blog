@@ -1,6 +1,8 @@
 ---
 title: How to ask questions about features feedback?
 date: 2012-09-20 07:32:09 Z
+tags:
+- Customer-feedback
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 238
 wordpress_url: http://localhost/blog/?p=238
 date_gmt: '2012-09-20 09:32:09 +0200'
-tags: Customer-feedback
 ---
 
 <div>

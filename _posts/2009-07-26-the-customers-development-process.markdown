@@ -1,6 +1,8 @@
 ---
 title: The Customers Development Process
 date: 2009-07-26 09:56:54 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 80
 wordpress_url: http://www.rudnicki.info/?p=80
 date_gmt: '2009-07-26 09:56:54 +0200'
-tags: Polish
 ---
 
 <p>Alan poszedł do jednej firmy chcąc sprzedać komputery<br />

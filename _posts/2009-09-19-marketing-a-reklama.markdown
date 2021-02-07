@@ -1,6 +1,8 @@
 ---
 title: Marketing a reklama
 date: 2009-09-19 14:46:15 Z
+tags:
+- Polish
 layout: post
 status: publish
 author:
@@ -13,7 +15,6 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 108
 wordpress_url: http://www.rudnicki.info/?p=108
 date_gmt: '2009-09-19 14:46:15 +0200'
-tags: Polish
 ---
 
 <p>Dzisiaj krótka i seksowna definicja marketingu i reklamy: <strong>m</strong><strong>arketing to manipulacja produktem, reklama i sprzedaż to manipulacja ludźmi.</strong></p>
