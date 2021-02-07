@@ -35,5 +35,5 @@ Problems yet to solve:
 - How to make automtic string unbinding (now I do this manually)
 - How to prevent electric motor to run when courtain is shadowed
 
-<img src="https://kamilrudnicki.com/images/1.png" class="inline" style="width: 80%" />
-<img src="https://kamilrudnicki.com/images/2.png" class="inline" style="width: 80%" />
+<img src="https://kamilrudnicki.com/public/images/1.png" class="inline" style="width: 80%" />
+<img src="https://kamilrudnicki.com/public/images/2.png" class="inline" style="width: 80%" />
