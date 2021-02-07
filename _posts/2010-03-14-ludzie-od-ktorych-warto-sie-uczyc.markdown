@@ -1,8 +1,8 @@
 ---
+title: Ludzie od których warto się uczyć
+date: 2010-03-14 15:09:33 Z
 layout: post
 status: publish
-published: true
-title: Ludzie od których warto się uczyć
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 175
 wordpress_url: http://www.rudnicki.info/?p=175
-date: '2010-03-14 16:09:33 +0100'
 date_gmt: '2010-03-14 14:09:33 +0100'
 ---
+
 <p>Są w Polsce i na świecie ludzie, którzy osiągnęli mistrzostwo w swoich dziedzinach.  Wydaje mi się, że każdy powinien mieć listę swoich mentorów.</p>
 <p>Poniżej znajduje się moja lista, osób którzy osobiście uważam, że naprawdę wiedzą o czym mówią, sami wykorzystują to o czym mówią i osiągają ponadprzeciętne rezultaty. Podzieliłem listę na dziedziny:</p>
 <ul>

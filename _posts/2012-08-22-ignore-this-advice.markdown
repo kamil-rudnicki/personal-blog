@@ -1,8 +1,8 @@
 ---
+title: Ignore this advice
+date: 2012-08-22 10:03:28 Z
 layout: post
 status: publish
-published: true
-title: Ignore this advice
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 234
 wordpress_url: http://localhost/blog/?p=234
-date: '2012-08-22 12:03:28 +0200'
 date_gmt: '2012-08-22 12:03:28 +0200'
 ---
+
 <p>Notes from watching:</p>
 <p><a href="http://businessofsoftware.org/2011/08/jason-cohen-on-working-out-when-to-break-the-rules-ignore-advice-video-transcript/">http://businessofsoftware.org/2011/08/jason-cohen-on-working-out-when-to-break-the-rules-ignore-advice-video-transcript/</a></p>
 <ul>

@@ -1,8 +1,8 @@
 ---
+title: Czym się zajmować?
+date: 2011-04-25 20:44:49 Z
 layout: post
 status: publish
-published: true
-title: Czym się zajmować?
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 206
 wordpress_url: http://www.rudnicki.info/?p=205
-date: '2011-04-25 22:44:49 +0200'
 date_gmt: '2011-04-25 20:44:49 +0200'
 ---
+
 <p>Cały czas się czegoś uczę dzięki pracy nad startupem. Ostatnio mam duży dylemat jako osoba decyzyjny.</p>
 <p>Co jest ważniejsze? Na czym skupiać zasoby czasu i ludzi? Co będzie lepsze dla firmy? Czy:</p>
 <ul>

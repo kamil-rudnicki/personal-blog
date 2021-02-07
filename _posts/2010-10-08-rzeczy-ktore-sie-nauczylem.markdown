@@ -1,8 +1,8 @@
 ---
+title: Rzeczy, które się nauczyłem
+date: 2010-10-08 22:07:34 Z
 layout: post
 status: publish
-published: true
-title: Rzeczy, które się nauczyłem
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 186
 wordpress_url: http://www.rudnicki.info/?p=186
-date: '2010-10-09 00:07:34 +0200'
 date_gmt: '2010-10-08 22:07:34 +0200'
 ---
+
 <p>Miałem okazję bezpośrednio i pośrednio uczyć się od najlepszych. Oto rzeczy, które uważam za najważniejsze lekcje które nadal mnie czekają (piszę ten post, abym je uporządkować i przy okazji podzielił się ze światem :)</p>
 <p><strong>Mentor nr. 1<br />
 - </strong>tworzyć struktury i procedury,<br />

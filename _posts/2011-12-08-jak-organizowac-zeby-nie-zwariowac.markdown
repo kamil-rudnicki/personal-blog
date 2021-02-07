@@ -1,8 +1,8 @@
 ---
+title: Jak organizować żeby nie zwariować?
+date: 2011-12-08 19:02:32 Z
 layout: post
 status: publish
-published: true
-title: Jak organizować żeby nie zwariować?
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 220
 wordpress_url: http://www.rudnicki.info/?p=220
-date: '2011-12-08 20:02:32 +0100'
 date_gmt: '2011-12-08 18:02:32 +0100'
 ---
+
 <p>Poniżej kilka rad, które przynajmniej mi pomagają, może pomogą i Tobie:</p>
 <ul>
 <li>wyłącz wszelkie powiadomienia o emailach</li>

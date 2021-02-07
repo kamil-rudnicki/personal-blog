@@ -1,8 +1,8 @@
 ---
+title: CEO as a customer support
+date: 2014-04-16 08:13:44 Z
 layout: post
 status: publish
-published: true
-title: CEO as a customer support
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 273
 wordpress_url: http://rudnicki.info/?p=273
-date: '2014-04-16 10:13:44 +0200'
 date_gmt: '2014-04-16 10:13:44 +0200'
 ---
+
 <blockquote>"btw, its nice to talk to you directly on chat, its a rare case to have CEO on line :) "</p></blockquote>
 <p>This is what our client said to me on <a href="http://www.livechatinc.com">Livechat</a> when I was talking with him about new report that he would like to have in <a title="time tracking timecamp" href="http://www.timecamp.com">TimeCamp</a>.</p>
 <p>I recently find out about <a href="http://www.ceoonsupport.com/">http://www.ceoonsupport.com/</a> idea. I was doing this for a long time, and I'm very happy that this gets it's light in movement started by <a href="http://freshdesk.com/">Freshdesk</a>. I can't tell you how much benefits it has! For example:</p>

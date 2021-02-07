@@ -1,8 +1,8 @@
 ---
+title: Praca w domu czy w biurze?
+date: 2010-03-11 19:34:55 Z
 layout: post
 status: publish
-published: true
-title: Praca w domu czy w biurze?
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 167
 wordpress_url: http://www.rudnicki.info/?p=167
-date: '2010-03-11 20:34:55 +0100'
 date_gmt: '2010-03-11 18:34:55 +0100'
 ---
+
 <p>Kilka lat pracowałem w domu. Ostatni okres w biurze. To co mogę powiedzieć na temat obu doświadczeń, to że pierwsza opcja pracy w domu absolutnie nie jest dobrym wyborem. Kilka powodów:</p>
 <ul>
 <li>atmosfera,</li>

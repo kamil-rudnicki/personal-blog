@@ -1,8 +1,8 @@
 ---
+title: Dyrygent 1.0
+date: 2009-07-12 18:22:41 Z
 layout: post
 status: publish
-published: true
-title: Dyrygent 1.0
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 64
 wordpress_url: http://www.rudnicki.info/?p=64
-date: '2009-07-12 20:22:41 +0200'
 date_gmt: '2009-07-12 18:22:41 +0200'
 ---
+
 <p>Wczoraj koleżanka Ania przypomniała mi o fajnym pomyśle, zrobienia programiku, <strong>który rusza kursorem myszki w rytm dowolnej muzyki z Winampa</strong>. I oto jest - Dyrygent 1.0 ;)</p>
 <p><strong><a href="http://www.rudnicki.info/wp-content/uploads/2009/07/dyrygent.rar">Kliknij tutaj</a> aby go pobrać program Dyrygent 1.0 </strong></p>
 <p>Instrukcja instalacji programu:<strong> </strong></p>

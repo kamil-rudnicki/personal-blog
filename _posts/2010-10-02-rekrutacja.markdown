@@ -1,8 +1,8 @@
 ---
+title: Rekrutacja
+date: 2010-10-02 19:28:52 Z
 layout: post
 status: publish
-published: true
-title: Rekrutacja
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 183
 wordpress_url: http://www.rudnicki.info/?p=183
-date: '2010-10-02 21:28:52 +0200'
 date_gmt: '2010-10-02 19:28:52 +0200'
 ---
+
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Ludzie w startupie są bardzo ważną częścią sukcesu. Można tworzyć biznes samemu, ma to swoje plusy i minusy oczywiście. W zależności od typu biznesu jest to możliwe lub nie. Mówimy tutaj jednak o biznesie, w którym potrzebny jest zespół aby SPRAWY SIĘ DZIAŁY (Get Things Done) aby firma pędziła z prędkością światła. A do tego są potrzebni specyficzni ludzie.</div>
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Zatem poniżej kilka cech dobrego kandydata do startupu:</div>
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- musi uzupełniać zespół, kompetencjami, których zespół nie ma,</div>

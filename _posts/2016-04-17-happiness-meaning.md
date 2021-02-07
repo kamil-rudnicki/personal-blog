@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Happiness, Meaning and Purpouse
+date: 2016-04-17 00:00:00 Z
+layout: post
 ---
 
 {{ page.title }}

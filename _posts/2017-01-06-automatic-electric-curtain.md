@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Automatic electric curtain
+date: 2017-01-06 00:00:00 Z
+layout: post
 ---
 
 {{ page.title }}

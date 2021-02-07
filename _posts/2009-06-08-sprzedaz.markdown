@@ -1,8 +1,8 @@
 ---
+title: Sprzedaż
+date: 2009-06-08 18:15:24 Z
 layout: post
 status: publish
-published: true
-title: Sprzedaż
 author:
   display_name: admin
   login: admin
@@ -12,8 +12,8 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 47
 wordpress_url: http://www.rudnicki.info/?p=47
-date: '2009-06-08 20:15:24 +0200'
 date_gmt: '2009-06-08 18:15:24 +0200'
 ---
+
 <p><img class="alignright size-thumbnail wp-image-50" style="border: 0px;" title="863310_on_sale_1" src="http://www.rudnicki.info/wp-content/uploads/2009/06/863310_on_sale_1-150x150.jpg" alt="863310_on_sale_1" width="150" height="150" />Człowiek ma tę wyższość nad maszyna, że umie się sam sprzedać. Guy Kawasaki w poście "<a href="http://blog.guykawasaki.com/2009/04/selling-by-ben-stein.html">Selling by Ben Stein</a>" dał bardzo ciekawy przykład człowieka, który pracując w wakacje jako sprzedawca butów, nauczył się jak sprzedawać. Myślę, że ten post to bardzo dobra inspiracja, szczególnie dla ludzi z IT. Teraz sam się zastanawiam czy nie iść popracować jako sprzedawca :)</p>
 <p><strong>W startupie zawsze chodzi o sprzedaż.</strong> Nie ważne jak bardzo chcesz mieć najlepszy produkt pod słońcem. Nie ważne, że konkurencja ubiegła Cię z nową fajną funkcją. Nie musisz jej kopiować, a przynajmniej nie od razu. Wiem jak łatwo i przyjemnie jest zapomnieć się i przestać myśleć o sprzedaży, a zamiast tego zacząć myśleć o nowej super funkcji. Prawda jest jednak brutalna. Produkt sam się nie sprzeda! A dodatkowa funkcja, czy spowoduje zwiększenie sprzedaży? Raczej nie. Dlatego uczmy się jak sprzedawać, na pewno zwiększy to jakość naszego życia!</p>

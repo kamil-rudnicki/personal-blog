@@ -1,6 +1,7 @@
 ---
-layout: post
 title: My MacOS setup
+date: 2020-08-30 00:00:00 Z
+layout: post
 ---
 
 {{ page.title }}

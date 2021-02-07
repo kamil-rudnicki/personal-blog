@@ -1,8 +1,8 @@
 ---
+title: How to ask questions about features feedback?
+date: 2012-09-20 07:32:09 Z
 layout: post
 status: publish
-published: true
-title: How to ask questions about features feedback?
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 238
 wordpress_url: http://localhost/blog/?p=238
-date: '2012-09-20 09:32:09 +0200'
 date_gmt: '2012-09-20 09:32:09 +0200'
 ---
+
 <div>
 <ol>
 <li><span>First thing first, you should gather all the informations you already have received in one place.</span></li>

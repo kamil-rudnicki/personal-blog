@@ -1,8 +1,8 @@
 ---
+title: How to know if the market is going to be huge?
+date: 2012-12-09 17:16:55 Z
 layout: post
 status: publish
-published: true
-title: How to know if the market is going to be huge?
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 230
 wordpress_url: http://localhost/blog/?p=230
-date: '2012-12-09 18:16:55 +0100'
 date_gmt: '2012-12-09 18:16:55 +0100'
 ---
+
 <p>How to know if the market is going to be huge?</p>
 <p>Maybe you should look for competitors. Do they grow (like crazy)?</p>
 <p>If you will be asking yourself, should I start Google, think how your competitors are growing? They probably had been growing, and you was able to see it. Checked - Google.</p>

@@ -1,6 +1,7 @@
 ---
-layout: post
 title: What future will bring
+date: 2016-08-28 00:00:00 Z
+layout: post
 ---
 
 {{ page.title }}

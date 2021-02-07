@@ -1,8 +1,8 @@
 ---
+title: Wojna
+date: 2010-03-20 16:33:10 Z
 layout: post
 status: publish
-published: true
-title: Wojna
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 177
 wordpress_url: http://www.rudnicki.info/?p=177
-date: '2010-03-20 17:33:10 +0100'
 date_gmt: '2010-03-20 15:33:10 +0100'
 ---
+
 <p>Właśnie doznałem olśnienia. Ostatnio szczególnie za pieniadze UE, propmuje się wiele rzeczy, gdzie moim zdaniem zwyczajnie<a href="http://www.kamilcebulski.pl/najpierw-sie-odczaruj.html"> marnuje się pieniądze</a> i czas ludzi.</p>
 <p>Dlatego właśnie znalazłem w sobie niezłą <strong>motywację </strong>do pokonania mojej introwertyczności. Bo tak naprawdę kto jak nie ja mogę zrobić szum wokół tematów związanych z efektywnym zarządzaniem czasu, które uważam że są bardzo ważne :) Jeśli organizuje się za miliony złotych akcje np. promujące matematykę, to dlaczego ja nie mam z nimi konkurować?</p>
 <p>Lekcja:</p>

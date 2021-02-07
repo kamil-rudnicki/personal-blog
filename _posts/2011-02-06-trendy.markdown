@@ -1,8 +1,8 @@
 ---
+title: Trendy
+date: 2011-02-06 20:00:22 Z
 layout: post
 status: publish
-published: true
-title: Trendy
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 201
 wordpress_url: http://www.rudnicki.info/?p=201
-date: '2011-02-06 21:00:22 +0100'
 date_gmt: '2011-02-06 19:00:22 +0100'
 ---
+
 <p>Innowacje stanowią zapalnik do sukcesu w biznesie. Każda innowacja jest związana z niezaspokojoną potrzebą, dlatego jest innowacją.</p>
 <p>Jak je wyszukiwać i interpretować? Dobre pytanie :) Szukaj nowych rynków - kopalnie złota w Ameryce, komputery, Internet, SaaS, Cloud computing, Social Media, tablety, Android - jakie będą kolejne, które się kończą, które dopiero rozpoczynają? Znajdź fale na której pojedziesz.</p>
 <p><strong>Każdy nowy rynek, powoduje że powstają niezaspokojone potrzeby, które czekają aby je zaspokoić.</strong></p>

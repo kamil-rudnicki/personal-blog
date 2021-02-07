@@ -1,8 +1,8 @@
 ---
+title: Przycisk na stronie głównej
+date: 2009-10-11 12:01:15 Z
 layout: post
 status: publish
-published: true
-title: Przycisk na stronie głównej
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 119
 wordpress_url: http://www.rudnicki.info/?p=119
-date: '2009-10-11 14:01:15 +0200'
 date_gmt: '2009-10-11 12:01:15 +0200'
 ---
+
 <p>Komunikat na przycisku na stronie głównej, może mieć spory wpływ na konwersję użytkowników. Przekonałem się o tym w <a href="http://visikid.pl">Visikid</a>. Przetestowałem trzy warianty przycisków (przy pomocy <a href="http://www.Google.com/WebsiteOptimizer">Google Website Optimizer</a>):</p>
 <ol>
 <li>"Zobacz ile to kosztuje" - konwersja 10,93%</li>

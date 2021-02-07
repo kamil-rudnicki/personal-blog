@@ -1,8 +1,8 @@
 ---
+title: What other things to build beyond the web application?
+date: 2012-08-21 18:41:00 Z
 layout: post
 status: publish
-published: true
-title: What other things to build beyond the web application?
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 236
 wordpress_url: http://localhost/blog/?p=236
-date: '2012-08-21 20:41:00 +0200'
 date_gmt: '2012-08-21 20:41:00 +0200'
 ---
+
 <p>Backend admin panel</p>
 <ul>
 <li>Simple admin panel for accounts with filtering (it should have trial, payed, suspended states and highlight hight potential accounts) </li>

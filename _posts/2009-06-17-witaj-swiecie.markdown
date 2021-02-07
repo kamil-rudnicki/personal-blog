@@ -1,8 +1,8 @@
 ---
+title: Przypowieści mogą być potężnym narzędziem manipulacji!
+date: 2009-06-17 13:24:23 Z
 layout: post
 status: publish
-published: true
-title: Przypowieści mogą być potężnym narzędziem manipulacji!
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 205
 wordpress_url: http://rudnicki.info/?p=1
-date: '2009-06-17 15:24:23 +0200'
 date_gmt: '2009-06-17 15:24:23 +0200'
 ---
+
 <p>Przypowieści, metafory, bajki, opowiadania itd. prawie codziennie je słyszę.</p>
 <p>Czasami są zabawne, a czasami nie, ale dobre odznaczają się tym że bardzo pobudzają wyobraźnię człowieka i w znaczący sposób oddziałują na nas! Najczęściej mamy dowolność ich interpretacji, więc pozwalają się dopasować do obecnej sytuacji, w tym <strong>tkwi ich moc</strong>. Powtarzam, dają się interpretować, każdy może znaleźć w nich kawałek swojego świata. Taki zabieg często powoduje że mamy satysfakcje (zresztą złudną) że to właśnie nam było dane odgadnąć sens danej bajki i w tym<strong> również tkwi ich moc. </strong>Pozwalają nam również odejść od rzeczywistego świata, od problemów i udać się do raju gdzie wszystko jest możliwe i w <strong>tym również tkwi ich moc</strong> :)</p>
 <p>Stanowią więc potężne narzędzie manipulacji. Dlatego kiedy następnym razem będziemy z zaciekawieniem słuchali opowieści i pewnie zastanawiali się jak to się ma do obecnej sytuacji i gdy to nam się powiedzie pomyślmy czy aby na pewno wnioski z bajki są słuszne. To może okazać się trudne, ale nie niemożliwe.</p>

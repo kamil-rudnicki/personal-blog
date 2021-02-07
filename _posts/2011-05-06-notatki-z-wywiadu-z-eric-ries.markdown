@@ -1,8 +1,8 @@
 ---
+title: Notatki z wywiadu z Eric Ries
+date: 2011-05-06 19:29:03 Z
 layout: post
 status: publish
-published: true
-title: Notatki z wywiadu z Eric Ries
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 207
 wordpress_url: http://www.rudnicki.info/?p=207
-date: '2011-05-06 21:29:03 +0200'
 date_gmt: '2011-05-06 19:29:03 +0200'
 ---
+
 <p style="text-align: left;">Świetny wywiad można odsłuchać na: <a href="http://www.crunchbase.com/person/eric-ries">http://www.crunchbase.com/person/eric-ries</a></p>
 <p><strong>Notatki</strong></p>
 <p>Startup jest organizacją kierowaną przez ludzi w warunkach ekstremalnej niepewności</p>

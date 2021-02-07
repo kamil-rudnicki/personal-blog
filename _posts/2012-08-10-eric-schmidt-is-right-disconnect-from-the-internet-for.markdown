@@ -1,8 +1,8 @@
 ---
+title: Eric Schmidt is right. Disconnect from the Internet for one hour.
+date: 2012-08-10 16:35:00 Z
 layout: post
 status: publish
-published: true
-title: Eric Schmidt is right. Disconnect from the Internet for one hour.
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 239
 wordpress_url: http://localhost/blog/?p=239
-date: '2012-08-10 18:35:00 +0200'
 date_gmt: '2012-08-10 18:35:00 +0200'
 ---
+
 <p>Watching Eric Schmidt Keynote on UC Berkley I was wondering if Eric Schmidt is right.</p>
 <blockquote>
 <p>Disconnect from Internet for an one hour a day.</p>

@@ -1,8 +1,8 @@
 ---
+title: Promocja oprogramowania
+date: 2009-05-20 08:15:28 Z
 layout: post
 status: publish
-published: true
-title: Promocja oprogramowania
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 30
 wordpress_url: http://www.rudnicki.info/?p=30
-date: '2009-05-20 10:15:28 +0200'
 date_gmt: '2009-05-20 08:15:28 +0200'
 ---
+
 <p>Chyba nie ma takiego twórcy oprogramowania, który nie chciałby żeby jego program pobierało i kupowało tysiące ludzi z całego świata. W tym artykule przestawię najprostsze sposoby promocji oprogramowania.</p>
 <p>Wiadomo, że jeśli o programie nikt nic nie wie, to, po co wogóle go pisać? Dlatego bardzo ważne jest przedstawienie programu jak największej liczbie osób. Możemy to zrobić na kilka sposobów:</p>
 <p><strong>Płatna reklama.</strong></p>

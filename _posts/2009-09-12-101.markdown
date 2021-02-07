@@ -1,8 +1,8 @@
 ---
+title: Jeden nawyk skutecznego działania
+date: 2009-09-12 18:40:09 Z
 layout: post
 status: publish
-published: true
-title: Jeden nawyk skutecznego działania
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 101
 wordpress_url: http://www.rudnicki.info/?p=101
-date: '2009-09-12 20:40:09 +0200'
 date_gmt: '2009-09-12 18:40:09 +0200'
 ---
+
 <p><a href="http://www.rudnicki.info/wp-content/uploads/2009/09/Clipboard02a.png"><img class="size-medium wp-image-102 alignnone" title="Clipboard02a" src="http://www.rudnicki.info/wp-content/uploads/2009/09/Clipboard02a-300x232.png" alt="Clipboard02a" width="300" height="232" /></a></p>
 <p><a href="http://www.rudnicki.info/wp-content/uploads/2009/09/Clipboard02a.png"></a>Jedną z lepszych rzeczy które ostatnio mi się przytrafiły w ramach zwiększenia produktywność i lepszego zarządzania czasem było umieszczenie na pulpicie schematu który proponuje w swojej książce S. Covey '7 nawyków skutecznego działania'. W skrócie jest to rozdzielenie zadań na cztery typy:</p>
 <ul>

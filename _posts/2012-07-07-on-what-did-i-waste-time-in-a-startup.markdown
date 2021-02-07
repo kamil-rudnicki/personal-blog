@@ -1,8 +1,8 @@
 ---
+title: On what did I waste time in a startup?
+date: 2012-07-07 07:17:00 Z
 layout: post
 status: publish
-published: true
-title: On what did I waste time in a startup?
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 241
 wordpress_url: http://localhost/blog/?p=241
-date: '2012-07-07 09:17:00 +0200'
 date_gmt: '2012-07-07 09:17:00 +0200'
 ---
+
 <p><span class="inline_editor_value"><strong>Product</strong></span></p>
 <ul>
 <li>Building too complex analytics (metrics was not practical)</li>

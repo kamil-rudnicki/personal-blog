@@ -1,8 +1,8 @@
 ---
+title: Limity energii
+date: 2012-01-08 21:16:57 Z
 layout: post
 status: publish
-published: true
-title: Limity energii
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 223
 wordpress_url: http://www.rudnicki.info/?p=223
-date: '2012-01-08 22:16:57 +0100'
 date_gmt: '2012-01-08 20:16:57 +0100'
 ---
+
 <p>My ludzie mamy tendencję do szastania swoją energią. Trzeba sobie uświadomić dwa fakty:<br />
 - mamy ograniczony tygodniowy zasób energii,<br />
 - drugi fakt nie udało mi się wymyślić ;)<br />

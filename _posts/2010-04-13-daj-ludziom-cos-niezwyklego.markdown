@@ -1,8 +1,8 @@
 ---
+title: Daj ludziom coś niezwykłego
+date: 2010-04-13 22:01:10 Z
 layout: post
 status: publish
-published: true
-title: Daj ludziom coś niezwykłego
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 170
 wordpress_url: http://www.rudnicki.info/?p=170
-date: '2010-04-14 00:01:10 +0200'
 date_gmt: '2010-04-14 00:01:10 +0200'
 ---
+
 <p>Właśnie oglądam prezentację Setha Godina o marketingu, czyli o tym co i jak przedstawiać ludziom:</p>
 <p><object id="VideoPlayback" style="width: 400px; height: 326px;" width="100" height="100" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://video.google.com/googleplayer.swf?docid=-6909078385965257294&amp;hl=pl&amp;fs=true" /><param name="allowfullscreen" value="true" /><embed id="VideoPlayback" style="width: 400px; height: 326px;" width="100" height="100" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docid=-6909078385965257294&amp;hl=pl&amp;fs=true" allowfullscreen="true" /></object></p>
 <p><strong>Posumowanie</strong>:</p>

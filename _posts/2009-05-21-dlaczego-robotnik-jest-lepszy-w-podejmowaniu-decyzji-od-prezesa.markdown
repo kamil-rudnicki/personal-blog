@@ -1,8 +1,8 @@
 ---
+title: Dlaczego robotnik jest lepszy w podejmowaniu decyzji od prezesa
+date: 2009-05-21 16:50:27 Z
 layout: post
 status: publish
-published: true
-title: Dlaczego robotnik jest lepszy w podejmowaniu decyzji od prezesa
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 35
 wordpress_url: http://www.rudnicki.info/?p=35
-date: '2009-05-21 18:50:27 +0200'
 date_gmt: '2009-05-21 16:50:27 +0200'
 ---
+
 <p>Co zrobić aby świat był piękny i cudowny? Wystarczy, że ludzie u władzy podejmują racjonalne decyzje. Ale czy na pewno? <strong>Racjonalne decyzje są podejmowane na podstawie racjonalnych (rzeczywistych) faktów z zewnątrz.</strong></p>
 <p>Istnieją dwie płaszczyzny podejmowania decyzji: te dotyczące rzeczy które można dotkąć i te istniejące w wyobrażeniach i wizjach. Teraz robotnik wybierając, czy zrobić to czy tamo, jest mocno osadzony w "realności" i dla każdego robotnika cegła oznacza to samo. Cegłę można dotkąć, przełożyć, załadować do ciężarówki, można nią rzucić w kogoś innego i od razu widać jaki faktyczny efekt to spowoduje :] Co innego jest w przypadku szefa firmy, który często musi podejmować decyzje bez tego prawdziwego dotyku realności, oparte tylko na intuicji, wyobraźni czy wizji.</p>
 <p>Główne przeszkody w racjonalnym decydowaniu:</p>

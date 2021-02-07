@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Being perfect
+date: 2015-06-16 00:00:00 Z
+layout: post
 ---
 
 {{ page.title }}

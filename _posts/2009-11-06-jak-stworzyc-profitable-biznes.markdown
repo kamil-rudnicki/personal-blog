@@ -1,8 +1,8 @@
 ---
+title: 8 wskaźników które musisz poznać
+date: 2009-11-06 10:46:46 Z
 layout: post
 status: publish
-published: true
-title: 8 wskaźników które musisz poznać
 author:
   display_name: admin
   login: admin
@@ -12,9 +12,9 @@ author_login: admin
 author_email: kamil.rudnicki@gmail.com
 wordpress_id: 125
 wordpress_url: http://www.rudnicki.info/?p=125
-date: '2009-11-06 11:46:46 +0100'
 date_gmt: '2009-11-06 09:46:46 +0100'
 ---
+
 <p>Ostatnio jedną z najważniejszych rzeczy, która wcale nie wymagała wiele czasu było zebranie kilku wskaźników dla aplikacji typu SaaS. Oto one:</p>
 <ul>
 <li><strong>LUV</strong> (zł) - dożywotnia wartość użytkownika (ile średnio użytkownika zostawia pieniędzy)</li>
