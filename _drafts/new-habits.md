@@ -1,13 +1,14 @@
 ---
 title: My MacOS setup
 date: 2020-08-30 00:00:00 Z
+Key: 
 layout: post
 ---
 
 {{ page.title }}
 ================
 
-- [ ] Open cards in tabs setting
+- [ ] Open cards in tabs setting 2
 - [ ] Three finger drag setting
 - [ ] Automation to open any file with Visual Studio Code
 - [ ] Automation to upload any file to Dropbox and get the link in clipboard
