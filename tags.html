@@ -1,0 +1,13 @@
+---
+layout: page
+title: Tags
+---
+
+{% for tag in site.tags %}
+<h3 id="{{ tag[0] }}">{{ tag[0] }}</h3>
+<ul>
+    {% for post in tag[1] %}
+    <li><small>{{ post.date | date_to_string }}</small> &nbsp; &nbsp; <a href="{{ post.url }}" style="color: black;">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+{% endfor %}

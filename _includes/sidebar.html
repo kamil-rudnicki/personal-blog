@@ -6,7 +6,7 @@
           Kamil's Blog
         </a>
       </h1>
-      <p class="lead">
+      <p class="lead" style="font-style: italic;">
         CEO at <a href="https://www.timecamp.com" target="_blank" style="color: #00bf71;">TimeCamp</a>
       </p>
     </div>
@@ -28,7 +28,23 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Subscribe</a>
+<!--      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Subscribe</a>-->
+
+
+      <form method="post" action="https://sendfox.com/form/m22ykn/mpnn6v" class="sendfox-form" id="mpnn6v" data-async="true" data-recaptcha="true">
+        <br />Subscribe<br />
+        <input type="email" placeholder="me@email.com" name="email" required />
+        <!-- no botz please -->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
+        <button type="submit">Subscribe</button>
+      </form>
+      <script src="https://sendfox.com/js/form.js"></script>
+
+      <br /><br/>
+      {% for tag in site.tags %}
+      <a href="{{ site.baseurl }}tags/#{{ tag[0] }}">{{ tag[0] }}</a> &nbsp; &nbsp;
+      {% endfor %}
+
     </nav>
   </div>
 </div>
