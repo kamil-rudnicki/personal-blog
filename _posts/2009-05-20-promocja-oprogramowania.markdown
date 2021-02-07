@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 30
 wordpress_url: http://www.rudnicki.info/?p=30
 date_gmt: '2009-05-20 08:15:28 +0200'
+tags: Polish
 ---
 
 <p>Chyba nie ma takiego twórcy oprogramowania, który nie chciałby żeby jego program pobierało i kupowało tysiące ludzi z całego świata. W tym artykule przestawię najprostsze sposoby promocji oprogramowania.</p>

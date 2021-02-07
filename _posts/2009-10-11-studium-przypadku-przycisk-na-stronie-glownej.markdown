@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 119
 wordpress_url: http://www.rudnicki.info/?p=119
 date_gmt: '2009-10-11 12:01:15 +0200'
+tags: Polish
 ---
 
 <p>Komunikat na przycisku na stronie głównej, może mieć spory wpływ na konwersję użytkowników. Przekonałem się o tym w <a href="http://visikid.pl">Visikid</a>. Przetestowałem trzy warianty przycisków (przy pomocy <a href="http://www.Google.com/WebsiteOptimizer">Google Website Optimizer</a>):</p>

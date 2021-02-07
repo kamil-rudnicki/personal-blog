@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 284
 wordpress_url: http://rudnicki.info/?p=284
 date_gmt: '2014-09-20 10:00:49 +0200'
+tags: Consciousness
 ---
 
 <p>For more than a year, I’m trying to solve the life mystery. I wanted to put my life into the paper. I tried putting my life into Trello, Evernote, mind maps. I’m studying my life, it’s the most interesting study, and hard to catch. There are so many variables, so many attributions, connections. I have tried asking hard questions, about the past, presence and future. I asked about why is ok what is not, what should I improve, what should I be proud of.</p>

@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 235
 wordpress_url: http://localhost/blog/?p=235
 date_gmt: '2012-08-22 05:48:22 +0200'
+tags: Consciousness
 ---
 
 <p>I recently saw two beautiful presentations, in which content was inspired by Steve Jobs. They are not exactly about how to do small things in a company. They go further. Those presentations are on strategic thinking which I believe are good for entrepreneurs - I strongly believe that they are true.</p>

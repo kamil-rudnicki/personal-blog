@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 205
 wordpress_url: http://rudnicki.info/?p=1
 date_gmt: '2009-06-17 15:24:23 +0200'
+tags: Polish
 ---
 
 <p>Przypowieści, metafory, bajki, opowiadania itd. prawie codziennie je słyszę.</p>

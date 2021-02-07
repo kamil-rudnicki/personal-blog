@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 207
 wordpress_url: http://www.rudnicki.info/?p=207
 date_gmt: '2011-05-06 19:29:03 +0200'
+tags: Polish
 ---
 
 <p style="text-align: left;">Świetny wywiad można odsłuchać na: <a href="http://www.crunchbase.com/person/eric-ries">http://www.crunchbase.com/person/eric-ries</a></p>

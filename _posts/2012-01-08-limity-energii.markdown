@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 223
 wordpress_url: http://www.rudnicki.info/?p=223
 date_gmt: '2012-01-08 20:16:57 +0100'
+tags: Polish
 ---
 
 <p>My ludzie mamy tendencję do szastania swoją energią. Trzeba sobie uświadomić dwa fakty:<br />

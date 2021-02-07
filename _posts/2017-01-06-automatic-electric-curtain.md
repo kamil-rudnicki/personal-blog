@@ -2,12 +2,8 @@
 title: Automatic electric curtain
 date: 2017-01-06 00:00:00 Z
 layout: post
+tags: Life-hacks
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">5 Jan 2017</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zSqjXpjQWyE" frameborder="0" allowfullscreen></iframe>
 
@@ -38,5 +34,5 @@ Problems yet to solve:
 - How to make automtic string unbinding (now I do this manually)
 - How to prevent electric motor to run when courtain is shadowed
 
-<img src="http://rudnicki.info/images/1.png" class="inline" style="width: 80%" />
-<img src="http://rudnicki.info/images/2.png" class="inline" style="width: 80%" />
+<img src="https://kamilrudnicki.com/images/1.png" class="inline" style="width: 80%" />
+<img src="https://kamilrudnicki.com/images/2.png" class="inline" style="width: 80%" />

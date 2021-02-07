@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 175
 wordpress_url: http://www.rudnicki.info/?p=175
 date_gmt: '2010-03-14 14:09:33 +0100'
+tags: Polish
 ---
 
 <p>Są w Polsce i na świecie ludzie, którzy osiągnęli mistrzostwo w swoich dziedzinach.  Wydaje mi się, że każdy powinien mieć listę swoich mentorów.</p>

@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 238
 wordpress_url: http://localhost/blog/?p=238
 date_gmt: '2012-09-20 09:32:09 +0200'
+tags: Customer-feedback
 ---
 
 <div>

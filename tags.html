@@ -7,7 +7,7 @@ title: Tags
 <h3 id="{{ tag[0] }}">{{ tag[0] }}</h3>
 <ul>
     {% for post in tag[1] %}
-    <li><small>{{ post.date | date_to_string }}</small> &nbsp; &nbsp; <a href="{{ post.url }}" style="color: black;">{{ post.title }}</a></li>
+    <li><small style="font-family: monospace;">{{ post.date | date_to_string }}</small> &middot; <a href="{{ post.url }}" style="color: black;">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
 {% endfor %}

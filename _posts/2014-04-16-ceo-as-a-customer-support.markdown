@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 273
 wordpress_url: http://rudnicki.info/?p=273
 date_gmt: '2014-04-16 10:13:44 +0200'
+tags: Customer-feedback
 ---
 
 <blockquote>"btw, its nice to talk to you directly on chat, its a rare case to have CEO on line :) "</p></blockquote>

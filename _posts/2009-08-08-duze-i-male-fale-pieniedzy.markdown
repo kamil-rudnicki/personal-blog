@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 86
 wordpress_url: http://www.rudnicki.info/?p=86
 date_gmt: '2009-08-08 12:48:16 +0200'
+tags: Polish
 ---
 
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Należy zdać sobie sprawę z istnienia trendów i warstw na rynkach, które powodują powstawanie wilkich fortun jak i tych mniejszych. Przeanalizujmy rynek aplikacji do iPhona i zaczynijmy analizę przechodząc od jednej rzeczy bez której kolejna warstwa nie mogłaby istnieć.</div>

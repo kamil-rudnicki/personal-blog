@@ -2,12 +2,8 @@
 title: What future will bring
 date: 2016-08-28 00:00:00 Z
 layout: post
+tags: Market
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">28 Aug 2016</p>
 
 In elementary school there should be lessons for developing character ( uk is starting this)
 

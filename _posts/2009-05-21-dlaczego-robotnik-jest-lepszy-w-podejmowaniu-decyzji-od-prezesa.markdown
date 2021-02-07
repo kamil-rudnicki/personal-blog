@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 35
 wordpress_url: http://www.rudnicki.info/?p=35
 date_gmt: '2009-05-21 16:50:27 +0200'
+tags: Polish
 ---
 
 <p>Co zrobić aby świat był piękny i cudowny? Wystarczy, że ludzie u władzy podejmują racjonalne decyzje. Ale czy na pewno? <strong>Racjonalne decyzje są podejmowane na podstawie racjonalnych (rzeczywistych) faktów z zewnątrz.</strong></p>

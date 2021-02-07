@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 170
 wordpress_url: http://www.rudnicki.info/?p=170
 date_gmt: '2010-04-14 00:01:10 +0200'
+tags: Polish
 ---
 
 <p>Właśnie oglądam prezentację Setha Godina o marketingu, czyli o tym co i jak przedstawiać ludziom:</p>

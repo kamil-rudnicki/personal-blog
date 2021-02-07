@@ -2,12 +2,8 @@
 title: Happiness, Meaning and Purpouse
 date: 2016-04-17 00:00:00 Z
 layout: post
+tags: Consciousness
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">17 Apr 2065</p>
 
 <p>Find what makes you happy and gives you a meaning and purpose. Find how to stop suffering. Don't stop until you find it. Do what need’s to be done. This is so short and precious life that there is no excuse to look for the answers. </p>
 <p>Happiness can be a skill you develop, and a choice. You can decide it is important to you, you prioritize it. Then you work at it (it’s like learning calculus, it’s like working on your muscles).</p>

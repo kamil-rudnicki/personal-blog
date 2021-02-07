@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 47
 wordpress_url: http://www.rudnicki.info/?p=47
 date_gmt: '2009-06-08 18:15:24 +0200'
+tags: Polish
 ---
 
 <p><img class="alignright size-thumbnail wp-image-50" style="border: 0px;" title="863310_on_sale_1" src="http://www.rudnicki.info/wp-content/uploads/2009/06/863310_on_sale_1-150x150.jpg" alt="863310_on_sale_1" width="150" height="150" />Człowiek ma tę wyższość nad maszyna, że umie się sam sprzedać. Guy Kawasaki w poście "<a href="http://blog.guykawasaki.com/2009/04/selling-by-ben-stein.html">Selling by Ben Stein</a>" dał bardzo ciekawy przykład człowieka, który pracując w wakacje jako sprzedawca butów, nauczył się jak sprzedawać. Myślę, że ten post to bardzo dobra inspiracja, szczególnie dla ludzi z IT. Teraz sam się zastanawiam czy nie iść popracować jako sprzedawca :)</p>

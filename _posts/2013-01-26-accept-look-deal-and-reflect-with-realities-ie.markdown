@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 227
 wordpress_url: http://localhost/blog/?p=227
 date_gmt: '2013-01-26 19:51:09 +0100'
+tags: Learning
 ---
 
 <blockquote>Accept, look, deal and reflect with realities (ie. problems, mistakes, weaknesses and pain). See beauty in this process.</p></blockquote>

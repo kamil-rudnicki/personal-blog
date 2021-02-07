@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 101
 wordpress_url: http://www.rudnicki.info/?p=101
 date_gmt: '2009-09-12 18:40:09 +0200'
+tags: Polish
 ---
 
 <p><a href="http://www.rudnicki.info/wp-content/uploads/2009/09/Clipboard02a.png"><img class="size-medium wp-image-102 alignnone" title="Clipboard02a" src="http://www.rudnicki.info/wp-content/uploads/2009/09/Clipboard02a-300x232.png" alt="Clipboard02a" width="300" height="232" /></a></p>

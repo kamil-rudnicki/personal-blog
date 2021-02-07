@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 152
 wordpress_url: http://www.rudnicki.info/?p=152
 date_gmt: '2010-01-03 00:14:26 +0100'
+tags: Polish
 ---
 
 <p>Jacek Santorski, znany psycholog biznesu <a href="http://www.jsantorski.pl/inf.php?id=nr433">pisze</a>, że najbardziej skuteczni managerowie są realistami aż do bólu. Coś w tym jest. Realista widzi rzeczy takimi jakimi są, ogranicza do minimum swój osąd i zabarwianie na dobre lub złe. Sam ostatnio jestem wielkim fanem tej idei i bardzo się ekscytuje poznając nowe prawa rządzące wszechświatem i ludźmi :)</p>

@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 125
 wordpress_url: http://www.rudnicki.info/?p=125
 date_gmt: '2009-11-06 09:46:46 +0100'
+tags: Polish
 ---
 
 <p>Ostatnio jedną z najważniejszych rzeczy, która wcale nie wymagała wiele czasu było zebranie kilku wskaźników dla aplikacji typu SaaS. Oto one:</p>

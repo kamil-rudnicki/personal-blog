@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 186
 wordpress_url: http://www.rudnicki.info/?p=186
 date_gmt: '2010-10-08 22:07:34 +0200'
+tags: Polish
 ---
 
 <p>Miałem okazję bezpośrednio i pośrednio uczyć się od najlepszych. Oto rzeczy, które uważam za najważniejsze lekcje które nadal mnie czekają (piszę ten post, abym je uporządkować i przy okazji podzielił się ze światem :)</p>

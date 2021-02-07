@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 229
 wordpress_url: http://localhost/blog/?p=229
 date_gmt: '2013-01-16 20:25:00 +0100'
+tags: Meditation
 ---
 
 <p>Imagine you were meditating for 8 minutes. You were relaxed, listening to nice music, trying to focus on here and now. Every thought that came to your mind - you have noticed it and ignore it completely. Your brain was slowing down.</p>

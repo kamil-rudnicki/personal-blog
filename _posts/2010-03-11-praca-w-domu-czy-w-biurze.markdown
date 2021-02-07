@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 167
 wordpress_url: http://www.rudnicki.info/?p=167
 date_gmt: '2010-03-11 18:34:55 +0100'
+tags: Polish
 ---
 
 <p>Kilka lat pracowałem w domu. Ostatni okres w biurze. To co mogę powiedzieć na temat obu doświadczeń, to że pierwsza opcja pracy w domu absolutnie nie jest dobrym wyborem. Kilka powodów:</p>

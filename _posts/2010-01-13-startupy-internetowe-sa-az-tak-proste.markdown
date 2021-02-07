@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 154
 wordpress_url: http://www.rudnicki.info/?p=154
 date_gmt: '2010-01-13 14:05:15 +0100'
+tags: Polish
 ---
 
 <div>

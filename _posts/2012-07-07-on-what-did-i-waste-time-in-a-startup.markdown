@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 241
 wordpress_url: http://localhost/blog/?p=241
 date_gmt: '2012-07-07 09:17:00 +0200'
+tags: Time-mgmt
 ---
 
 <p><span class="inline_editor_value"><strong>Product</strong></span></p>

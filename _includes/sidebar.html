@@ -14,11 +14,6 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -27,9 +22,6 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-<!--      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Subscribe</a>-->
-
 
       <form method="post" action="https://sendfox.com/form/m22ykn/mpnn6v" class="sendfox-form" id="mpnn6v" data-async="true" data-recaptcha="true">
         <br />Subscribe<br />
@@ -42,7 +34,7 @@
 
       <br /><br/>
       {% for tag in site.tags %}
-      <a href="{{ site.baseurl }}tags/#{{ tag[0] }}">{{ tag[0] }}</a> &nbsp; &nbsp;
+      <span style="white-space: nowrap; font-size: 18px;"><a href="{{ site.baseurl }}tags#{{ tag[0] }}">{{ tag[0] }}</a> &middot; </span>
       {% endfor %}
 
     </nav>

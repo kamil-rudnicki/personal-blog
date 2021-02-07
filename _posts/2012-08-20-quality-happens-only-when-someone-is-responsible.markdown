@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 237
 wordpress_url: http://localhost/blog/?p=237
 date_gmt: '2012-08-20 13:10:47 +0200'
+tags: Culture
 ---
 
 <blockquote>Quality happens only when someone is responsible for it.</p></blockquote>

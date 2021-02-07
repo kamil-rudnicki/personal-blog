@@ -13,6 +13,7 @@ author_email: kamil.rudnicki@gmail.com
 wordpress_id: 117
 wordpress_url: http://www.rudnicki.info/?p=117
 date_gmt: '2009-10-08 21:42:55 +0200'
+tags: Polish
 ---
 
 <p>Bardzo ciekawa historia Joela Spolskiego, jak rozkręcił własny biznes. Pisze o tym, jak wielką stratą czasu było zajmowanie się marketingiem produktu, zamiast ulepszać sam produkt.</p>
