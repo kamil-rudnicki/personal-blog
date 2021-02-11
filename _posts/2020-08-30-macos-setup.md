@@ -7,9 +7,17 @@ Key:
 layout: post
 ---
 
-Apps
+I'm spending over 9 hours per day in front of the computer. So gain in productivity in the environment I work with have clear benefits. Here are my top hacks.
 
-* Added Roam Research website (https://roamresearch.com/#/app/xxx) as desktop application using Multi [https://github.com/kofigumbs/multi](https://github.com/kofigumbs/multi). Multi is better than other apps, because it uses Safari engine instead of Google Chrome engine which is better for battery and memory.
+**Apps**
+
+* I use Roam Research for [knowledge management](https://roamresearch.com). I added Roam Research website (https://roamresearch.com/#/app/xxx) as desktop application using Multi [https://github.com/kofigumbs/multi](https://github.com/kofigumbs/multi). Multi is better than other apps, because it uses Safari engine instead of Google Chrome engine which is better for battery and memory.
+
+**Desk**
+
+![IMG_1175.jpeg](/uploads/IMG_1175.jpeg)
+
+I use Herman [Miller Mirra 2](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/mirra-2-chairs/) chair, which I bought on eBay for half of the price. It was great upgrade from my pervious Ikea chair. I also got second monitor and standing desk. The desk area is also bigger so I have more space for my legs. Thanks to this I'm able to work in front of the desk longer than before.
 
 Other
 * Open cards in tabs setting
