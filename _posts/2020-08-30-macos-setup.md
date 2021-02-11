@@ -7,6 +7,8 @@ Key:
 layout: post
 ---
 
+Last updated: 2021-02-11
+
 I'm spending over 9 hours per day in front of the computer. So gain in productivity in the environment I work with have clear benefits. Here are my top hacks.
 
 **Apps**
