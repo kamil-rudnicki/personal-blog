@@ -1,5 +1,5 @@
 ---
-title: My MacOS setup
+title: Setup MacOS for maximum productivity
 date: 2020-08-30 00:00:00 Z
 tags:
 - Life-hacks
