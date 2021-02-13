@@ -37,7 +37,7 @@ Here are some quotes from the movie:
 
 > Nostalgia is not what it used to be.
 
-**Additional quotes**
+Additional quotes
 
 > I am not happy because my wife is not. She's not, then the kids aren't either.
 
@@ -48,3 +48,5 @@ Here are some quotes from the movie:
 > As it comes to marriage, I never regretted it, and that is happiness.
 
 > Happiness is using all your three basic emotions at the same time.
+
+> That we can all be happy. More. That we all have the right to be happy. More. We have a responsibility to be happy!
