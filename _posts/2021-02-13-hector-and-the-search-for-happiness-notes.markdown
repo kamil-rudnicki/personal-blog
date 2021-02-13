@@ -10,7 +10,9 @@ Movie "Hector and the Search for Happiness" is based on a novel by a French psyc
 Here are some quotes from the movie:
 
 > Making comparisons can spoil your happiness.
+
 > A lot of people think happiness is being rich or important.
+
 > Many people see happiness only in their future.
 > Happiness could be the freedom to love more than one woman at the same time.
 > Sometimes happiness is not knowing the whole story.
