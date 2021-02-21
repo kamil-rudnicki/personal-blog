@@ -21,6 +21,10 @@ I'm spending over 9 hours per day in front of the computer. So gain in productiv
 
 I use Herman [Miller Mirra 2](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/mirra-2-chairs/) chair, which I bought on eBay for half of the price. It was great upgrade from my pervious Ikea chair. I also got second monitor and standing desk. The desk area is also bigger so I have more space for my legs. Thanks to this I'm able to work in front of the desk longer than before.
 
+**System preferences**
+
+* `defaults write com.apple.screencapture show-thumbnail -bool FALSE` - disable the floating screenshots preview on Mac, as I want to move screenshots right after making it very often
+
 Other
 * Open cards in tabs setting
 * Three finger drag setting
