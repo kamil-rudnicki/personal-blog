@@ -24,6 +24,7 @@ I use Herman [Miller Mirra 2](https://www.hermanmiller.com/en_eur/products/seati
 **System preferences**
 
 * In Terminal: `defaults write com.apple.screencapture show-thumbnail -bool FALSE` - disable the floating screenshots preview on Mac, which delays saving screenshot on disk for a couple of seconds
+* Use Fingerprint for sudo in Terminal - https://davidwalsh.name/touch-sudo
 
 Other
 * Open cards in tabs setting
