@@ -19,7 +19,7 @@ date_gmt: '2010-03-11 18:34:55 +0100'
 
 <p>Kilka lat pracowałem w domu. Ostatni okres w biurze. To co mogę powiedzieć na temat obu doświadczeń, to że pierwsza opcja pracy w domu absolutnie nie jest dobrym wyborem. Kilka powodów:</p>
 <ul>
-<li>atmosfera,</li>
+<li>atmosfera,,</li>
 <li>brak interakcji,</li>
 <li>brak motywacji,</li>
 </ul>
