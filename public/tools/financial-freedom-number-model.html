@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Financial freedom number simulator</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <style>
+        .tableFixHead          { overflow-y: auto; height: 100px; }
+        .tableFixHead thead th { position: sticky; top: 0; background: rgb(193, 201, 194); }
+        small {font-size: 11px;}
+        .sticky {
+          position: sticky; top: 0; background: white;
+        }
+    </style>
+
+    <!-- <script type="text/javascript" src="https://livejs.com/live.js"></script> -->
+    <!-- php -S localhost:8080 -->
+    <!-- http://localhost:8080/financial-freedom-number-simulator.html -->
+</head>
+<body>
+  <br /><br />
+  <div id="app"></div>
+
+  <script crossorigin src="https://unpkg.com/react@17/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+  <script>
+  class FreedomNumberModel {
+    constructor(currentAge, ageOfDeath, inflation, wantToLeaveOnTimeOfDeath, capitalGains, currentYearlyExpenses) {
+      this.currentAge = currentAge;
+      this.ageOfDeath = ageOfDeath;
+      this.wantToLeaveOnTimeOfDeath = wantToLeaveOnTimeOfDeath;
+      this.capitalGains = capitalGains;
+      this.currentYearlyExpenses = currentYearlyExpenses;
+
+      this.numberOfYearsToLive = ageOfDeath-currentAge;
+      this.inflation = Array( this.numberOfYearsToLive ).fill(1+inflation); //Inflacja
+    }
+
+    PV(rate, periods, payment, future, type) {
+        var type = (typeof type === 'undefined') ? 0 : type;
+
+        rate = eval(rate);
+        periods = eval(periods);
+
+        if (rate === 0) {
+            return - payment * periods - future;
+        } else {
+            return (((1 - Math.pow(1 + rate, periods)) / rate) * payment * (1 +rate * type) - future) / Math.pow(1 + rate, periods);
+        }
+    }
+
+    getInflatedValue(start, periods, inflationTable, decreaseStartingFrom, decreaseBy) {
+        let futureValue = start;
+
+        for (let i = 0; i < periods; i++) { 
+            futureValue *= inflationTable[i];
+
+            if(decreaseStartingFrom && i >= decreaseStartingFrom) {
+                futureValue -= futureValue * decreaseBy;
+            }
+        }
+
+        return futureValue;
+    }
+
+    getLifeTimeExpenses() {
+      let model = this.calc();
+      let lifetimeExpenses = 0;
+      model.forEach(function(value, key) {
+        lifetimeExpenses += value.totalExpenses;
+      });
+      return lifetimeExpenses;
+    }
+
+    calc() {
+      let totalExpensesByYears = [];
+      let expenses = [];
+      for (let i = 0; i <= this.numberOfYearsToLive; i++) { 
+          let age = this.currentAge + i;
+          let totalExpensesInitial = 0;
+          let yearlyExpenses = {};
+
+          for (const expense of this.currentYearlyExpenses) {
+              if(expense.startDecreasing !== undefined) {
+                  let startDecreasing = expense.startDecreasing.onAge - this.currentAge;
+                  let inflatedValue = this.getInflatedValue(expense.value, i, this.inflation, startDecreasing, expense.startDecreasing.by);
+                  totalExpensesInitial += inflatedValue;
+                  yearlyExpenses[expense.name] = Math.round(inflatedValue);
+              } else {
+                let inflatedValue = this.getInflatedValue(expense.value, i, this.inflation);
+                totalExpensesInitial += inflatedValue;
+                yearlyExpenses[expense.name] = Math.round(inflatedValue);
+              }
+          }
+
+          expenses.push(yearlyExpenses);
+          totalExpensesByYears.push(totalExpensesInitial);
+      }
+      
+      const average = arr => arr.reduce( ( p, c ) => p + c, 0 ) / arr.length;
+
+      //console.log(-this.PV(0.00003, 8, 520000, 500000));
+
+      let result = [];
+      for (let i = 0; i <= this.numberOfYearsToLive; i++) {
+          let age = this.currentAge + i;
+          let pv = -Math.round(this.PV(this.capitalGains, this.numberOfYearsToLive-i+1, average(totalExpensesByYears.slice(i)), this.wantToLeaveOnTimeOfDeath));
+          let totalExpenses = Math.round(totalExpensesByYears[i]);
+
+          result.push({
+            'age': age,
+            'capitalNeeded': pv,
+            'totalExpenses': totalExpenses,
+            'expenses': expenses[i],
+          });
+      }
+      return result;
+    }
+  }
+  </script>
+
+  <script type="text/babel">
+    const e = React.createElement;
+
+    function formatNumber(number) {
+      return Number((Math.round(number)).toFixed(1)).toLocaleString();
+    }
+
+    function Table(props) {
+      const model = props.model.calc();
+      const lifetimeExpenses = props.model.getLifeTimeExpenses();
+
+      const listItems = model.map((year) =>
+        <tr key={year.age.toString()}>
+          <td>{year.age}</td>
+          <td>
+            {formatNumber(year.totalExpenses)}
+          </td>
+          {
+            Object.keys(year.expenses).map(key => 
+              <td key={key}><small>{formatNumber(year.expenses[key])}</small></td>
+            )
+          }
+          <td>{formatNumber(year.capitalNeeded)}</td>
+        </tr>
+      );
+
+      const listExpensesTypesHeader = props.currentYearlyExpenses.map((expense) =>
+        <th key={expense.name}>
+          <small>{expense.name}</small>
+        </th>
+      );
+
+      return <div>
+          <table id="myTable" className="tableFixHead table table-striped table-sm font-monospace text-end">
+            <thead>
+              <tr>
+                <th>Age</th>
+                <th title="They are rising due to inflation">Expenses</th>
+                {listExpensesTypesHeader}
+                <th title="If started living from capital gains from this age">Freedom number</th>
+              </tr>
+            </thead>
+            <tbody>
+              {listItems}
+            </tbody>
+            <tfoot>
+              <tr>
+                <th></th>
+                <th>{formatNumber(lifetimeExpenses)}</th>
+              </tr>
+            </tfoot>
+          </table>
+      </div>
+    }
+
+    class AppModel extends React.Component {
+        constructor(props) {
+          super(props);
+          
+          this.state = { 
+            age: 33,
+            inflation: 0.024,
+            capitalGains: 0.045,
+            bequestAmount: 500000,
+            currentYearlyExpenses: [ //Ile emerytury chcesz otrzymywać co miesiąc?
+              {
+                name: "Living",
+                value: 62000,
+              },
+              {
+                name: "Recreation",
+                value: 50000,
+                startDecreasing: {
+                  onAge: 60,
+                  by: 0.04,
+                }
+              },
+              {
+                name: "Other",
+                value: 24000,
+                startDecreasing: {
+                  onAge: 55,
+                  by: 0.05,  
+                }
+              },
+            ] 
+          };
+
+          const model = new FreedomNumberModel(this.state.age, 95, this.state.inflation, this.state.bequestAmount, this.state.capitalGains, this.state.currentYearlyExpenses);
+          this.state.model = model;
+          console.log(model.calc());
+          
+          this.handleChange = this.handleChange.bind(this);
+        }
+
+        handleChange(event) {
+          const target = event.target;
+          const value = target.type === 'checkbox' ? target.checked : target.value;
+          const name = target.name;
+
+          this.setState({
+            [name]: value
+          });
+
+          let age = this.state.age;
+          let inflation = this.state.inflation;
+          let capitalGains = this.state.capitalGains;
+          let bequestAmount = this.state.bequestAmount;
+          let currentYearlyExpenses = this.state.currentYearlyExpenses;
+
+          if(name == "livingExpenses") {
+            let livingExpenses = value;
+            livingExpenses = parseInt(livingExpenses) || 1;
+            if (livingExpenses < 1 || livingExpenses > 99999999) {
+              livingExpenses = 1;
+            }
+            currentYearlyExpenses[0].value = livingExpenses;
+            this.setState({
+              currentYearlyExpenses: currentYearlyExpenses
+            });
+          }
+          if(name == "recreationExpenses") {
+            let recreationExpenses = value;
+            recreationExpenses = parseInt(recreationExpenses) || 1;
+            if (recreationExpenses < 1 || recreationExpenses > 99999999) {
+              recreationExpenses = 1;
+            }
+            currentYearlyExpenses[1].value = recreationExpenses;
+            this.setState({
+              currentYearlyExpenses: currentYearlyExpenses
+            });
+          }
+          if(name == "otherExpenses") {
+            let otherExpenses = value;
+            otherExpenses = parseInt(otherExpenses) || 1;
+            if (otherExpenses < 1 || otherExpenses > 99999999) {
+              otherExpenses = 1;
+            }
+            currentYearlyExpenses[2].value = otherExpenses;
+            this.setState({
+              currentYearlyExpenses: currentYearlyExpenses
+            });
+          }
+          if(name == "age") {
+            age = value;
+            age = parseInt(age) || 33;
+            if (age < 10 || age > 120) {
+              age = 33;
+            }
+          }
+          if(name == "inflation") {
+            inflation = value;
+            inflation = parseFloat(inflation) || 0.03;
+            if (inflation < 0.0001 || inflation > 0.5) {
+              inflation = 0.03;
+            }
+          }
+          if(name == "capitalGains") {
+            capitalGains = value;
+            capitalGains = parseFloat(capitalGains) || 0.06;
+            if (capitalGains < 0.0001 || capitalGains > 4) {
+              capitalGains = 0.06;
+            }
+          }
+          if(name == "bequestAmount") {
+            bequestAmount = value;
+            bequestAmount = parseInt(bequestAmount) || 0.03;
+            if (bequestAmount < 1 || bequestAmount > 999999999) {
+              bequestAmount = 500000;
+            }
+          }
+
+          const model = new FreedomNumberModel(age, 95, inflation, bequestAmount, capitalGains, currentYearlyExpenses);
+          this.setState({
+            model: model
+          });
+        }
+
+        render() {
+            return (
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-5 text-end ">
+                          <div className="sticky">
+                            <h2>Financial freedom number model</h2>
+                            <div className="row mb-3 ">
+                                <label className="col-sm-7 col-form-label">
+                                    <span>Your current age?</span>
+                                </label>
+                                <div className="col-sm-5">
+                                    <input type="input" className="form-control text-end" defaultValue={this.state.age} name="age" onChange={this.handleChange} />
+                                </div>
+                            </div>
+                            <div className="row mb-3">
+                                <label className="col-sm-7 col-form-label">
+                                    <span>Capital gains</span>
+                                </label>
+                                <div className="col-sm-5">
+                                    <input type="input" className="form-control text-end" defaultValue={this.state.capitalGains} name="capitalGains" onChange={this.handleChange} />
+                                </div>
+                            </div>
+                            <div className="row mb-3">
+                                <label className="col-sm-7 col-form-label">
+                                    <span>Inflation</span>
+                                </label>
+                                <div className="col-sm-5">
+                                    <input type="input" className="form-control text-end" defaultValue={this.state.inflation} name="inflation" onChange={this.handleChange} />
+                                </div>
+                            </div>
+                            <div className="row mb-3">
+                                <label className="col-sm-7 col-form-label">
+                                    <span>How much do you want to leave as a bequest to others?</span>
+                                </label>
+                                <div className="col-sm-5">
+                                    <input type="input" className="form-control text-end" defaultValue={this.state.bequestAmount} name="bequestAmount" onChange={this.handleChange} />
+                                </div>
+                            </div>
+                            <div className="row mb-3">
+                                <label className="col-sm-7 col-form-label">
+                                    <span>Living expenses</span>
+                                </label>
+                                <div className="col-sm-5">
+                                    <input type="input" className="form-control text-end" defaultValue={this.state.currentYearlyExpenses[0].value} name="livingExpenses" onChange={this.handleChange} />
+                                </div>
+                            </div>
+                            <div className="row mb-3">
+                                <label className="col-sm-7 col-form-label">
+                                    <span>Recreation expenses</span>
+                                </label>
+                                <div className="col-sm-5">
+                                    <input type="input" className="form-control text-end" defaultValue={this.state.currentYearlyExpenses[1].value} name="recreationExpenses" onChange={this.handleChange} />
+                                </div>
+                            </div>
+                            <div className="row mb-3">
+                                <label className="col-sm-7 col-form-label">
+                                    <span>Other expenses</span>
+                                </label>
+                                <div className="col-sm-5">
+                                    <input type="input" className="form-control text-end" defaultValue={this.state.currentYearlyExpenses[2].value} name="otherExpenses" onChange={this.handleChange} />
+                                </div>
+                            </div>
+                            
+                          </div>
+                        </div>
+                        <div className="col-lg-7">
+                          <Table model={this.state.model} currentYearlyExpenses={this.state.currentYearlyExpenses} />
+                        </div>
+                    </div>  
+                    <br /><br /><br />
+                </div>
+            )
+        }
+    }
+
+    ReactDOM.render(e(AppModel), document.getElementById('app'));
+  </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-832532-12"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-832532-12');
+  </script>
+
+</body>
+</html>
