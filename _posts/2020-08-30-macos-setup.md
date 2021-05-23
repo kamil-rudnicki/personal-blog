@@ -11,10 +11,6 @@ Last updated: 2021-02-11
 
 I'm spending over 9 hours per day in front of the computer. So gain in productivity in the environment I work with have clear benefits. Here are my top hacks.
 
-**Apps**
-
-* I use Roam Research for [knowledge management](https://roamresearch.com). I added Roam Research website (https://roamresearch.com/#/app/xxx) as desktop application using Multi [https://github.com/kofigumbs/multi](https://github.com/kofigumbs/multi). Multi is better than other apps, because it uses Safari engine instead of Google Chrome engine which is better for battery and memory.
-
 **Desk**
 
 ![IMG_1175.jpeg](/uploads/IMG_1175.jpeg)
@@ -39,3 +35,19 @@ Other
 * Use aText for automatic text expansions, saves thousands of keystrokes
 * Use clipboard history Flycut
 * Learn keyboard shortcuts for most often used apps like Safari, Notes, System
+
+Not obvious apps:
+* Multi - make apps from website
+* AdGuard + Hush
+* Affinity
+* aText - text expansion
+* Camo - make your iPhone camera laptop camera
+* Command E - spotlight for web documents
+* Flycut - multi copy paste
+* Forklift
+* massCode - code snippets
+* MeetingBar - less stress of upcoming meetings
+* Postman
+* Sequel Pro + TablePlus - query databases
+* Unarchiver
+* I use Roam Research for [knowledge management](https://roamresearch.com). I added Roam Research website (https://roamresearch.com/#/app/xxx) as desktop application using Multi [https://github.com/kofigumbs/multi](https://github.com/kofigumbs/multi). Multi is better than other apps, because it uses Safari engine instead of Google Chrome engine which is better for battery and memory.
